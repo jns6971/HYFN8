@@ -2,13 +2,14 @@
 
 # HYFN8 Front End Code Challenge
 
-## To use
-
-### Node
+## Installation Instructions
 
 ```sh
 npm install
 node server.js
 ```
 
-The site can be viewed on <http://localhost:3000/>
+View site on <http://localhost:3000/>
+
+### Sidenotes
+- I chose to use `<table>` in my HTML for accessability purposes since the content is presented as tabular data.
